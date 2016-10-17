@@ -1,0 +1,5 @@
+C:\Users\Tony\Desktop\MinimalisticTelnet\MinimalisticTelnet\bin\Debug\MinimalisticTelnet.exe
+C:\Users\Tony\Desktop\MinimalisticTelnet\MinimalisticTelnet\bin\Debug\MinimalisticTelnet.pdb
+C:\Users\Tony\Desktop\MinimalisticTelnet\MinimalisticTelnet\obj\Debug\MinimalisticTelnet.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Desktop\MinimalisticTelnet\MinimalisticTelnet\obj\Debug\MinimalisticTelnet.exe
+C:\Users\Tony\Desktop\MinimalisticTelnet\MinimalisticTelnet\obj\Debug\MinimalisticTelnet.pdb
